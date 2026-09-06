@@ -46,3 +46,7 @@ The application uses a **Gradient Boosting Regressor** to estimate maximum heart
 ```bash
 git clone https://github.com/Hasinamanickam/heart-rate-prediction.git
 cd heart-rate-prediction
+
+## 🚀 Live Demo
+
+👉 [Open Heart Rate AI](https://heart-rate-prediction-v443caqzvftnrn7eruhnnu.streamlit.app/)
